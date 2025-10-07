@@ -1,0 +1,5 @@
+nano src/door_management_files/door_configuration/door_1.conf
+CLOSED -> OPEN
+ctrl + X
+Y
+Enter
